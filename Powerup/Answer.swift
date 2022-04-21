@@ -1,5 +1,5 @@
 /** This struct is a data model for question/answer pair. */
-
+// Added a comment to the Answer struct
 struct Answer {
     // Each answer has a unique ID.
     var answerID: Int
